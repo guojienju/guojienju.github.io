@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jie Guo's Homepage"
+title: "Jie Guo 过洁"
 author_profile: true
 redirect_from: 
   - /about/
