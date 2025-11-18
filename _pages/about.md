@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XXX's Homepage"
+title: "Jie Guo's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
