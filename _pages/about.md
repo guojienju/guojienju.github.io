@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Jie Guo is a tenured associate professor at Nanjing University. He received his PhD from Nanjing University in 2013. His current research interest is mainly in computer graphics, virtual reality and 3D vision.
+I am a tenured associate professor at Nanjing University. I received my PhD from Nanjing University in 2013. My current research interest is mainly in computer graphics, virtual reality and 3D vision.
 
 
