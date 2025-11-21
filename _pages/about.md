@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenured associate professor at Nanjing University. I received my PhD from Nanjing University in 2013. My current research interest is mainly in computer graphics, virtual reality and 3D vision.
+I am a tenured associate professor at the School of Computing Science, Nanjing University. I received my Ph.D. Degree from the School of Computing Science, Nanjing University in 2013, advised by Prof. Jingui Pan. 
 
-
+My current research interest lies in computer graphics, virtual reality and 3D vision.
