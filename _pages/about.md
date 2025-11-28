@@ -16,4 +16,14 @@ My current research interest lies in computer graphics, virtual reality and 3D v
         <img src="../files/specular_poly.png" alt="..." class="img-responsive img-rounded" style="margin-bottom: 1ex;">
         <h3>Physically-based Rendering</h3>
     </div>
+
+    <div class="col-xs-12 col-ms-6 col-md-4">
+        <img src="../files/specular_poly.png" alt="..." class="img-responsive img-rounded" style="margin-bottom: 1ex;">
+        <h3>Physically-based Rendering</h3>
+    </div>
+
+    <div class="col-xs-12 col-ms-6 col-md-4">
+        <img src="../files/specular_poly.png" alt="..." class="img-responsive img-rounded" style="margin-bottom: 1ex;">
+        <h3>Physically-based Rendering</h3>
+    </div>
 </div>
